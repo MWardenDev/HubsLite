@@ -1,6 +1,0 @@
-@Node.Transform_HostAddress = http://localhost:5126
-
-GET {{Node.Transform_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

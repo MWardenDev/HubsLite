@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Node.Sink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0fd244f15a0da033298c99c7dae0deb70c227d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Node.Sink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Node.Sink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
