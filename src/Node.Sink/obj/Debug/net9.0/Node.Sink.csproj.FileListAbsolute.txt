@@ -30,3 +30,4 @@ C:\Personal\Repo\HubsLite\src\Node.Sink\obj\Debug\net9.0\refint\Node.Sink.dll
 C:\Personal\Repo\HubsLite\src\Node.Sink\obj\Debug\net9.0\Node.Sink.pdb
 C:\Personal\Repo\HubsLite\src\Node.Sink\obj\Debug\net9.0\Node.Sink.genruntimeconfig.cache
 C:\Personal\Repo\HubsLite\src\Node.Sink\obj\Debug\net9.0\ref\Node.Sink.dll
+C:\Personal\Repo\HubsLite\src\Node.Sink\obj\Debug\net9.0\Node.Sink.sourcelink.json

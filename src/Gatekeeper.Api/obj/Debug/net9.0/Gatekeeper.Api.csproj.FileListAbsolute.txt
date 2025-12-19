@@ -30,3 +30,4 @@ C:\Personal\Repo\HubsLite\src\Gatekeeper.Api\obj\Debug\net9.0\refint\Gatekeeper.
 C:\Personal\Repo\HubsLite\src\Gatekeeper.Api\obj\Debug\net9.0\Gatekeeper.Api.pdb
 C:\Personal\Repo\HubsLite\src\Gatekeeper.Api\obj\Debug\net9.0\Gatekeeper.Api.genruntimeconfig.cache
 C:\Personal\Repo\HubsLite\src\Gatekeeper.Api\obj\Debug\net9.0\ref\Gatekeeper.Api.dll
+C:\Personal\Repo\HubsLite\src\Gatekeeper.Api\obj\Debug\net9.0\Gatekeeper.Api.sourcelink.json

@@ -30,3 +30,4 @@ C:\Personal\Repo\HubsLite\src\Node.Transform\obj\Debug\net9.0\refint\Node.Transf
 C:\Personal\Repo\HubsLite\src\Node.Transform\obj\Debug\net9.0\Node.Transform.pdb
 C:\Personal\Repo\HubsLite\src\Node.Transform\obj\Debug\net9.0\Node.Transform.genruntimeconfig.cache
 C:\Personal\Repo\HubsLite\src\Node.Transform\obj\Debug\net9.0\ref\Node.Transform.dll
+C:\Personal\Repo\HubsLite\src\Node.Transform\obj\Debug\net9.0\Node.Transform.sourcelink.json
