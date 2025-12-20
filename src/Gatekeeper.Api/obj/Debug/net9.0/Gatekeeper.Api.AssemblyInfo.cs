@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gatekeeper.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a0fd244f15a0da033298c99c7dae0deb70c227d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75f54a9a4bf2d80f6c2229a096082c2fe764939c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gatekeeper.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gatekeeper.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
