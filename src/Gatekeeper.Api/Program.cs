@@ -1,5 +1,4 @@
 using System.Text;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,7 +15,11 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-// app.UseHttpsRedirection();
+app.MapPost("/ingress/orders", async (HttpRequest request, IHttpClientFactory httpClientFactory) =>
+{
+    using var reader = new StreamReader(request.Body);
+    var json = await reader.ReadToEndAsync();
+});
 
 app.MapPost("ingress/orders", async (HttpContext ctx, IHttpClientFactory httpClientFactory) => {
     using var reader = new StreamReader(ctx.Request.Body);
