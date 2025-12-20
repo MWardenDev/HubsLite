@@ -12,9 +12,9 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
-app.MapPost("sink", (object body) =>
+app.MapPost("/sink", (object body) =>
 {
     return Results.Ok(new { status = "stored", note = "stub - persistence latter"});
 });
