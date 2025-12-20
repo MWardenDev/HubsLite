@@ -16,7 +16,7 @@ if (app.Environment.IsDevelopment())
 
 app.MapPost("/sink", (object body) =>
 {
-    return Results.Ok(new { status = "stored", note = "stub - persistence latter"});
+    return Results.Ok(new { status = "stored", note = "stub - persistence later"});
 });
 
 app.Run();
